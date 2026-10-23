@@ -1,4 +1,4 @@
-# Interface-cerebro-maquina
+# Decodificação Neural para Interfaces Cérebro-Computador Escaláveis
 ## 1\. Tema e Objetivo
 
 &gt; **Este notebook destina-se a explorar os avanços em neurotecnologia, neuroplasticidade e arquiteturas de inteligência artificial para o desenvolvimento de interfaces cérebro-computador (BCIs) escaláveis, bidirecionais e de processamento em tempo real.**
