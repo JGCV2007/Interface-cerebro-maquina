@@ -1,5 +1,8 @@
 # Interface-cerebro-maquina
+## 1\. Tema e Objetivo
+
 &gt; **Este notebook destina-se a explorar os avanços em neurotecnologia, neuroplasticidade e arquiteturas de inteligência artificial para o desenvolvimento de interfaces cérebro-computador (BCIs) escaláveis, bidirecionais e de processamento em tempo real.**
+
 ## 2\. Fontes Selecionadas e Justificativa de Confiança
 
 O projeto reúne **28 fontes multidisciplinares** abrangendo neurofisiologia clínica, engenharia biomédica e aprendizado de máquina. A confiança no conjunto de fontes fundamenta-se nos seguintes critérios de rigor científico:
