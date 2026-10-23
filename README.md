@@ -74,4 +74,4 @@ Para garantir o rigor técnico e a confiabilidade das análises, o notebook oper
 ## 5\. Link do Notebook Compartilhado
 
 🔗 **Acesse o Notebook Completo no Gemini Notebook:**  
-[Link para o Notebook: Decodificação Neural para Interfaces Cérebro-Computador Escaláveis](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fnotebooklm.google.com%2F)
+[Link para o Notebook: Decodificação Neural para Interfaces Cérebro-Computador Escaláveis](https://notebook.google.com/notebook/ea58f539-8af9-4dde-ad69-45fccd6a3f78)
